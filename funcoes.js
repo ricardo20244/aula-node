@@ -57,3 +57,4 @@ function Pessoa()
 var edir = new Pessoa();
 console.log(edir);
 
+module.exports = soma;
